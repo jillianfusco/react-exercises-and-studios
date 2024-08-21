@@ -1,13 +1,14 @@
 .movieText {
    color: darkmagenta;
    list-style: none;
-   font-size: 2vw;
+   font-size: 1.3vw;
    text-align: left;
+   background-color: aliceblue;
 }
 
 .movieHeading {
    color: darkmagenta;
    text-align: left;
-   font-size: 3vw;
+   font-size: 2vw;
 }
 
